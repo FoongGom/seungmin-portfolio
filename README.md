@@ -36,28 +36,27 @@
 
 ## 📂 주요 프로젝트
 
-> 아래 폴더에 실제 프로젝트를 추가할 예정입니다.
-
-- `projects/` 폴더 참조
+> `projects/` 폴더에 실제 프로젝트를 추가할 예정입니다.
 
 ## 📝 연습 및 실습 기록
 
 - `practice/` 폴더 참조 (C, Python, 네트워킹, 데이터베이스 등)
 
 ## 📁 레포지토리 구조
+
+```text
 seungmin-portfolio/
 ├── projects/           # 완성도 높은 주요 프로젝트
 ├── practice/           # 언어별/주제별 연습 코드
-├── assets/images/      # 스크린샷, 데모 GIF
+├── assets/images/      # 스크린샷, 데모 이미지
 ├── docs/               # 문서
 ├── .gitignore
 ├── LICENSE
 └── README.md
-text## 📫 연락처
 
-- **GitHub**: [FoongGom](https://github.com/FoongGom)
-- **Email**: a5584a@naver.com
+📫 연락처
 
----
+GitHub: FoongGom
+Email: a5584a@naver.com
 
-*이 레포지토리는 포트폴리오 용도와 동시에 개인 실습 기록을 위한 저장소입니다.*
+이 레포지토리는 포트폴리오 용도와 동시에 개인 실습 기록을 위한 저장소입니다.
