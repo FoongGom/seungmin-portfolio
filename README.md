@@ -1,62 +1,58 @@
-# 🚀 seungmin-portfolio
+# 👋 이승민 (Seungmin Lee)
 
-> 개발 포트폴리오 & 실습 기록 저장소
+> AI & Full-stack Developer | Raspberry Pi & AIoT 프로젝트를 좋아하는 개발자
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Status-Active-success?style=for-the-badge"/>
-  <img src="https://img.shields.io/github/last-commit/FoongGom/seungmin-portfolio?style=for-the-badge"/>
-</p>
+## 📌 소개
+안녕하세요! AI소프트웨어과에 재학 중인 이승민입니다.  
+라즈베리파이 기반의 엣지 컴퓨팅과 AI 모델(LNN)을 활용한 실시간 시스템 개발에 관심이 많습니다.
 
-## 👋 소개
-
-안녕하세요. AI소프트웨어과에 재학 중인 **이승민**입니다.  
-웹 개발(Full-stack), 데이터 분석, 하드웨어(IoT), AI/ML 프로젝트를 통해 실력을 쌓고 있습니다.
+현재는 **Smart Home CCTV + AI 시스템**을 개발 중이며, Raspberry Pi에서 영상 처리와 LNN 추론을, PC에서는 Flask + MariaDB 서버를 운영하는 하이브리드 구조로 설계하고 있습니다.
 
 ## 🛠 기술 스택
 
-### Languages
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+### Languages & Frameworks
+- Python, Flask, SQLAlchemy
+- C (시스템 프로그래밍)
+- MariaDB / MySQL
 
-### Web & Backend
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+### AI & Edge Computing
+- Liquid Neural Network (LNN)
+- OpenCV
+- Raspberry Pi (Camera Module)
 
-### Database
-![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+### Tools & Others
+- Git & GitHub
+- Linux
+- Docker (학습 중)
 
-### Tools & Environment
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Raspberry Pi](https://img.shields.io/badge/Raspberry_Pi-C51A4A?style=for-the-badge&logo=raspberrypi&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+## 🚀 주요 프로젝트
 
-## 📂 주요 프로젝트
+### 🏠 Smart Home CCTV + AI System
+**기술 스택**: Raspberry Pi + LNN + Flask + MariaDB
 
-> `projects/` 폴더에 실제 프로젝트를 추가할 예정입니다.
+- Raspberry Pi에서 실시간 카메라 영상 수집 및 LNN 기반 이벤트 추론
+- PC 서버에서 Flask 웹 대시보드 + MariaDB로 이벤트 저장 및 관리
+- Edge(Pi)와 Server(PC)를 분리한 하이브리드 아키텍처
 
-## 📝 연습 및 실습 기록
+**GitHub**: [Smart_Home_CCTV](https://github.com/FoongGom/Smart_Home_CCTV)
 
-- `practice/` 폴더 참조 (C, Python, 네트워킹, 데이터베이스 등)
+**주요 기능**
+- 실시간 영상 스트리밍
+- LNN 기반 이상 감지
+- 웹 대시보드 (이벤트 확인, 영상 재생)
 
-## 📁 레포지토리 구조
+---
 
-```text
-seungmin-portfolio/
-├── projects/           # 완성도 높은 주요 프로젝트
-├── practice/           # 언어별/주제별 연습 코드
-├── assets/images/      # 스크린샷, 데모 이미지
-├── docs/               # 문서
-├── .gitignore
-├── LICENSE
-└── README.md
+## 📂 기타 프로젝트 및 실습
 
-📫 연락처
+- Flask 기반 학생 관리 시스템 (DB 연동, 권한 관리)
+- C + MariaDB 연동 프로그램
+- 네트워킹 실습 (Cisco, WireGuard, Postfix 등)
 
-GitHub: FoongGom
-Email: a5584a@naver.com
+## 📫 연락처
+- **GitHub**: [FoongGom](https://github.com/FoongGom)
+- **Email**: a5584a@naver.com
 
-이 레포지토리는 포트폴리오 용도와 동시에 개인 실습 기록을 위한 저장소입니다.
+---
+
+> 마지막 업데이트: 2026년 6월 16일
