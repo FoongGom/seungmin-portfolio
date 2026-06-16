@@ -30,6 +30,15 @@
 ### 🏠 Smart Home CCTV + AI System
 **기술 스택**: Raspberry Pi + LNN + Flask + MariaDB
 
+Raspberry Pi에서 실시간 카메라 영상을 수집하고 LNN으로 이상 상황을 감지하는 하이브리드 스마트 홈 보안 시스템입니다.  
+자세한 내용은 아래 링크에서 확인할 수 있습니다.
+
+- **상세 소개 페이지**: [projects/smart-home-cctv](./projects/smart-home-cctv)
+- **GitHub 저장소**: [Smart_Home_CCTV](https://github.com/FoongGom/Smart_Home_CCTV)
+
+### 🏠 Smart Home CCTV + AI System
+**기술 스택**: Raspberry Pi + LNN + Flask + MariaDB
+
 - Raspberry Pi에서 실시간 카메라 영상 수집 및 LNN 기반 이벤트 추론
 - PC 서버에서 Flask 웹 대시보드 + MariaDB로 이벤트 저장 및 관리
 - Edge(Pi)와 Server(PC)를 분리한 하이브리드 아키텍처
